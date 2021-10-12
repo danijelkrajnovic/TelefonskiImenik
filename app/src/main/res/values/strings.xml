@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TelefonskiImenik</string>
+
+    //Main screen
+    <string name="main_screen_title">Main screen</string>
+    <string name="main_screen_button_new">New</string>
+    <string name="main_screen_button_search">Search</string>
+    <string-array name="main_screen_search_by">
+        <item>First name</item>
+        <item>Last name</item>
+        <item>Date of birth (dd/mm/yyyy)</item>
+        <item>Email</item>
+    </string-array>
+    <string name="main_screen_first_name">First name:</string>
+    <string name="main_screen_last_name">Last name:</string>
+    <string name="main_screen_date_of_birth">Date of birth (dd/mm/yyyy):</string>
+    <string name="main_screen_email">Email:</string>
+
+    //Create screen
+    <string name="create_screen_title">Create screen</string>
+    <string name="create_screen_first_name">First name:</string>
+    <string name="create_screen_last_name">Last name:</string>
+    <string name="create_screen_date_of_birth">Date of birth (dd/mm/yyyy):</string>
+    <string name="create_screen_email">Email:</string>
+    <string name="create_screen_button_save">Save</string>
+    <string name="create_screen_fields_error_message">The following fields are too long:\n</string>
+    <string name="create_screen_fields_error_message_ok">OK</string>
+    <string name="create_screen_fields_error_message_first_name">- First name\n</string>
+    <string name="create_screen_fields_error_message_last_name">- Last name\n</string>
+    <string name="create_screen_fields_error_message_date_of_birth">- Date of birth\n</string>
+    <string name="create_screen_fields_error_message_email">- Email\n</string>
+
+    //Update Delete screen
+    <string name="update_delete_screen_title">Update Delete screen</string>
+    <string name="update_delete_screen_first_name">First name:</string>
+    <string name="update_delete_screen_last_name">Last name:</string>
+    <string name="update_delete_screen_date_of_birth">Date of birth (dd/mm/yyyy):</string>
+    <string name="update_delete_screen_email">Email:</string>
+    <string name="update_delete_screen_button_update">Update</string>
+    <string name="update_delete_screen_button_delete">Delete</string>
+    <string name="update_delete_update_success_message">Data was updated successfully!</string>
+    <string name="update_delete_update_error_message">There was an error while updating data!</string>
+    <string name="update_delete_delete_success_message">Data was deleted successfully!</string>
+    <string name="update_delete_delete_error_message">There was an error while deleting data!</string>
+    <string name="update_delete_update_dialog_message">Are you sure you want to update this item?</string>
+    <string name="update_delete_delete_dialog_message">Are you sure you want to delete this item?</string>
+    <string name="update_delete_dialog_yes">Yes</string>
+    <string name="update_delete_dialog_no">No</string>
+
+
+
+</resources>
